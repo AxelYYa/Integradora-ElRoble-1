@@ -19,15 +19,15 @@ class PlacesTable extends Seeder
         $places = [
             [
                 'name' => 'Quinta',
-                'description' => 'Quinta con alberca'
+                'description' => 'Quinta con alberca.'
             ],
             [
-                'name' => 'Salon',
-                'description' => 'Salon elegante '
+                'name' => 'Salón',
+                'description' => 'Salón elegante.'
             ],
             [
-                'name' => 'Quinta y salon',
-                'description' => 'Conjunto de Quinta y Salon para fiestas grandes'
+                'name' => 'Quinta y Salón',
+                'description' => 'Conjunto de Quinta y Salón para fiestas grandes.'
             ],
             ];
         foreach ($places as $place) {
